@@ -1,5 +1,6 @@
 <?php
 // tangkap input form registrasi
+
 $nim = $_POST['nim'];
 $nama = $_POST['nama'];
 $jk = $_POST['jk'];
